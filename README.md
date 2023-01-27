@@ -1,6 +1,6 @@
 # Test Automation [WEB & API]
 
-##### API and UI Automation Testing Using Java, cucumber and restAssured
+##### API and UI Automation Testing Using Java, Gherkin, Cucumber and RestAssured
 
 ### Environment and specs:
 - [petstore](https://petstore.swagger.io/)
