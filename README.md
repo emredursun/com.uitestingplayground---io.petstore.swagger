@@ -23,7 +23,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 - *clone the repo:*
 ```shell
-git clone https://gitlab.com/info.emredursun/com.uitestingplayground
+git clone https://github.com/emredursun/com.uitestingplayground---io.petstore.swagger.git
 ```
 - *set project sdk as 19*
 
